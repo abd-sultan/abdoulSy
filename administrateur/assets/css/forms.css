@@ -1,0 +1,50 @@
+fieldset legend {
+    background: black;
+    color: white;
+    padding: 5px;
+}
+
+fieldset {
+    box-shadow: 1px 1px 1px 1px silver;
+}
+
+fieldset .row {
+    padding: 5px;
+}
+
+.form-inline .row label {
+    float: left;
+}
+
+.form-inline .row input {
+    float: right;
+    margin-right: 0;
+    align: center;
+}
+
+
+/* table,
+tr,
+td,
+th {
+    border: 1px black solid;
+} */
+
+table {
+    box-shadow: 1px 1px 1px 1px silver;
+}
+
+.table-title {
+    background: black;
+    color: white;
+}
+
+#btn-retirer {
+    float: left;
+}
+
+.custom-select,
+.custom-select:focus {
+    border: 0;
+    overflow: hidden;
+}
