@@ -86,8 +86,8 @@
                     </div>
                 </fieldset>
             </div>
-        </div> 
-        <!-- --> <br><br>
+        </div> <br>
+        <!-- <br><br>
         <div class="row">
                 <div class="col-md-12">
                     <table class="table table-bordered">
@@ -110,7 +110,7 @@
                         </tbody>
                     </table>
                 </div>
-            </div>
+            </div>-->
             <!-- -->
             <div class="row">
                 <div class="col-md-4"></div>
@@ -119,7 +119,7 @@
                     <button class="btn btn-small btn-default ml-2" id="btn-ajouter" data-toggle="modal" data-target="#affectations" type="button">Ajouter</button>
                 </div>
                 <div class="col-md-4"></div>
-            </div> 
+            </div>
             <div class="modal fade" tabindex="-1" role="dialog" id="affectations" area-labelledby="affectations" aria-hidden="true">
                 <div class="modal-dialog" role="document">
                     <div class="modal-content">
@@ -171,4 +171,3 @@
                 </div>
             </form>
 </div>
-
